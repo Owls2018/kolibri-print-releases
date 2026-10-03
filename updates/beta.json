@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "channel": "beta",
+  "version": "1.2.0-beta.1",
+  "publishedAtUtc": "2026-10-03T19:10:50.5202401Z",
+  "installerUrl": "https://github.com/Owls2018/kolibri-print-releases/releases/download/v1.2.0-beta.1/KolibriPrintBridge_Setup_v1.2.0-beta.1.exe",
+  "sha256": "A460DA681E7E9E603584A6A967E51B65F01D2F690656B24FB2DDE31F3D562C88",
+  "sizeBytes": 93160447,
+  "releaseNotesUrl": "https://github.com/Owls2018/kolibri-print-releases/blob/main/releases/v1.2.0-beta.1.md",
+  "signature": "x1ZtN3gj8G21FMd4Y31J1qvp0atZBbrKi4eB8sfuQ/CzH\u002BrTOulU3\u002Bj8Sdy4iwQ9fuC0S7gpfGgViq6NJwdc/g=="
+}
