@@ -12,11 +12,17 @@ Primeira beta pública preparada para distribuição controlada. Inclui autentic
 
 SHA-256 do instalador: `20adb656098d3e08c613be5ed999209928de7c48a063d7c13f6b2351260d7faa`.
 
+## Estável
+
+### v1.1.0 — 2026-10-03
+
+Primeira versão estável da linha v1.1. Inclui autenticação individual, revogação real, transporte autenticado, permissões por impressora, painel administrativo e histórico/auditoria.
+
+SHA-256 do instalador: `08e4e4aa1ee0fc3120500274927ee7a4d0cbcc2f1d58a5b4e933db26c45bc36a`.
+
 ## Não publicado
 
-### v1.1.0
-
-Versão estável ainda em desenvolvimento. A publicação final ocorrerá somente após concluir as Fases 3, 4, 5 e o gate final.
+Próximas versões serão registradas aqui após novo ciclo de desenvolvimento e homologação.
 
 ---
 
